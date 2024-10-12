@@ -1,0 +1,20 @@
+Card Haven
+
+Motivation
+Card Haven is an online marketplace designed for trading card game (TCG) enthusiasts. The motivation behind this project stems from the challenges that collectors, players, and investors face in finding authentic and diverse TCG products in one place. Our platform aims to solve these problems by offering a comprehensive selection of single cards, sealed boxes, graded cards, and card accessories. We exist to provide a secure, user-friendly, and community-driven environment where users can easily find and purchase the TCG products they need, enhancing their collecting and gaming experience.
+
+Features
+Wide Product Selection: Access to singles, sealed products, graded cards, and accessories across various trading card games.
+Advanced Search and Filtering: Find specific cards and products quickly with detailed filters.
+User Accounts: Create profiles to manage orders, wishlists, and preferences.
+Secure Transactions: SSL encryption and secure payment gateways to protect user data.
+Community Engagement: Features such as product reviews and ratings to foster a community of TCG enthusiasts.
+
+To run this : we are not quite sure we want to do a webpage so just access it via webpage is okay
+
+contribution : we have have three branches one is main for pushing all the changes Second one is bugs which we get all the problem there once we fix it we push it to main
+third is change maybe sometimes we are not quite sure about the design so we make all the change there
+We use GitHub Issues to track bugs, feature requests, and improvements.
+
+Issue Labels: We label issues for easy identification (e.g., bug, enhancement, question).
+Assigning Issues: Before working on an issue, assign it to yourself to prevent duplication of effort.
