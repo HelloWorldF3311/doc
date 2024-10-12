@@ -10,7 +10,7 @@ User Accounts: Create profiles to manage orders, wishlists, and preferences.
 Secure Transactions: SSL encryption and secure payment gateways to protect user data.
 Community Engagement: Features such as product reviews and ratings to foster a community of TCG enthusiasts.
 
-To run this : we are not quite sure we want to do a webpage so just access it via webpage is okay
+To run this : in the menu i provided its a front end model of how our website like so you can first run it on webpage just download the file and run it 
 
 contribution : we have have three branches one is main for pushing all the changes Second one is bugs which we get all the problem there once we fix it we push it to main
 third is change maybe sometimes we are not quite sure about the design so we make all the change there
